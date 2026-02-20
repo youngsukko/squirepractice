@@ -1,1 +1,1 @@
-s
+rm(list = ls())
